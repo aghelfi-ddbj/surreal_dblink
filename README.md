@@ -20,4 +20,12 @@ Connect database using CLI
 ```
 surreal sql --conn http://localhost:8000 --user root --pass root --ns test --db bioproject --pretty
 ```
+exit: CTRL+c
 
+Commands:<br>
+```
+// Information for DB
+INFO FOR DB; 
+// Information for Namespace
+INFO FOR KV; 
+```
