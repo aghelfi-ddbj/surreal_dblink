@@ -1,5 +1,5 @@
-# Surreal dblink
-Test (public) dblink using SurrealDB
+# Surreal MetaboBank-DBlink
+
 
 
 [Install SurrealDB](https://surrealdb.com/docs/start/installation)
