@@ -18,7 +18,7 @@ upload filename: mtb2surreal.sql <br>
 <br>
 Connect database using CLI
 ```
-surreal sql --conn http://localhost:8000 --user root --pass root --ns test --db bioproject --pretty
+surreal sql --conn http://localhost:8000 --user root --pass root --ns test --db dblink --pretty
 ```
 exit: CTRL+c
 
